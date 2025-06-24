@@ -1,0 +1,9 @@
+# node.js
+node_modules/
+package-lock.json
+dist/
+.env
+
+# OS
+.DS_Store
+Thumbs.db
